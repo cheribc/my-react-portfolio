@@ -6,31 +6,31 @@ function Portfolio() {
 
     const [projects] = useState([
     {
-        name: 'Restful Fitness',
+        name: 'community-page1',
         description: 'MERN Stack',
         link: "https://restful--fitness.herokuapp.com/login",
         repo: "https://github.com/Shadae96/Restful-Fitness"
     },
     {
-        name: 'Guardians of the Code Galaxy',
+        name: 'blackpanther_image',
         description: '3rd Party API',
         link: "https://nsoroma.github.io/Guardians-of-the-Code-Galaxy/",
         repo: "https://github.com/nsoroma/Guardians-of-the-Code-Galaxy"
     },
     {
-        name: 'Note-Taker',
+        name: 'note-screenshot2',
         description: 'Node.js/Express.js',
         link: "https://expressjs-notes.herokuapp.com/",
         repo: "https://github.com/cheribc/Note-taker-expressjs"
     },
     {
-        name: 'Password Generator',
+        name: 'generated-password',
         description: 'JavaScript, HTML/CSS',
         link: "https://cheribc.github.io/JS-Password-Generator/",
         repo: "https://github.com/cheribc/JS-Password-Generator"
     },
     {
-        name: 'Code Quiz App',
+        name: 'question-demo',
         description: 'JavaScript, HTML/CSS',
         link: "https://cheribc.github.io/JS-Code-Quiz/",
         repo: "https://github.com/cheribc/JS-Code-Quiz"
@@ -51,4 +51,4 @@ function Portfolio() {
     );
 };
 
-export default Portfolio
+export default Portfolio;

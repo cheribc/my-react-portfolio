@@ -2,17 +2,17 @@ import React from 'react'
 
 const styles = {
   jumbotron: {
-      backgroundColor: '#0fb0e6a9',
+      backgroundColor: '#2089f0ff',
       color: '#ffffff',
       padding: '100px 25px',
-      fontFamily: '"Spectral SC", sans-serif',
+      fontFamily: '"Arial", sans-serif',
   },
   h1: {
-      fontSize: '63px',
+      fontSize: '70px',
   },
   p: {
-      fontSize: '21px',
-      fontFamily: '"Fauna One", sans-serif',
+      fontSize: '25px',
+      fontFamily: '"Arial", sans-serif',
   }
 }
 
